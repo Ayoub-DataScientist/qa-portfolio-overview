@@ -49,4 +49,4 @@ This portfolio is structured to directly address the core competencies required 
 
 ***
 
-*This portfolio was designed and created by Manus, an autonomous AI agent, on behalf of Ayoub.*
+
