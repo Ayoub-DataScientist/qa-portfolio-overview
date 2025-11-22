@@ -1,6 +1,6 @@
 # QA/SDET Portfolio: Ayoub
 
-## 🌟 Overview
+##  Overview
 
 Welcome to my Quality Assurance (QA) and Software Development Engineer in Test (SDET) portfolio. This collection of repositories is designed to showcase my practical skills in modern software testing, automation, and quality engineering, targeting junior to mid-level roles.
 
@@ -8,7 +8,7 @@ The portfolio demonstrates my ability to move beyond simple test execution to **
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Component | Technology | Purpose |
 | :--- | :--- | :--- |
@@ -20,7 +20,7 @@ The portfolio demonstrates my ability to move beyond simple test execution to **
 
 ---
 
-## 🗺️ Portfolio Map
+##  Portfolio Map
 
 The following repositories are interconnected and demonstrate a full spectrum of QA capabilities.
 
@@ -34,7 +34,7 @@ The following repositories are interconnected and demonstrate a full spectrum of
 
 ---
 
-## 🎯 My QA Skills Showcase
+##  My QA Skills Showcase
 
 This portfolio is structured to directly address the core competencies required for a successful QA Engineer:
 
