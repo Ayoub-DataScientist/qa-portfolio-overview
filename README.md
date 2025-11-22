@@ -29,7 +29,7 @@ The following repositories are interconnected and demonstrate a full spectrum of
 | **[web-ui-testing-playwright](https://github.com/Ayoub-DataScientist/web-ui-testing-playwright)** | **Automated UI Testing** | Page Object Model (POM), Fixtures, Parallel Execution, Test Strategy Design. |
 | **[api-testing-automation](https://github.com/Ayoub-DataScientist/api-testing-automation)** | **Automated API Testing** | Pytest, Requests, Environment Configuration, Data-Driven Testing, API Test Plan. |
 | **[qa-manual-test-cases-and-bug-reports](https://github.com/Ayoub-DataScientist/qa-manual-test-cases-and-bug-reports)** | **Manual QA & Documentation** | Test Case Design, Professional Bug Reporting (JIRA style), Traceability Matrix, Requirements Analysis. |
-| **[test-automation-framework-from-scratch](https://github.com/Ayoub-DataScientist/test-automation-framework-from-scratch)** | **Advanced Framework Architecture** | Combining UI and API layers, Clean Folder Structure, Reusable Utilities, Logging, Reporting. |
+| **[test-automation-framework](https://github.com/Ayoub-DataScientist/test-automation-framework)** | **Advanced Framework Architecture** | Combining UI and API layers, Clean Folder Structure, Reusable Utilities, Logging, Reporting. |
 | **[qa-ci-cd-examples](https://github.com/Ayoub-DataScientist/qa-ci-cd-examples)** | **Continuous Integration (CI)** | GitHub Actions Workflow Design, CI/CD Pipeline Integration, Status Badges. |
 
 ---
@@ -45,7 +45,7 @@ This portfolio is structured to directly address the core competencies required 
 | **Write Automated API Tests** | Comprehensive positive, negative, and data-driven tests using Requests and Pytest in `api-testing-automation`. |
 | **Work with CI on GitHub** | Functional GitHub Actions workflows for both UI and API tests in `qa-ci-cd-examples`. |
 | **Document Bugs & Test Cases** | Professional, JIRA-style bug reports and detailed test case documentation in `qa-manual-test-cases-and-bug-reports`. |
-| **Framework Design** | The advanced, integrated architecture of `test-automation-framework-from-scratch`. |
+| **Framework Design** | The advanced, integrated architecture of `test-automation-framework`. |
 
 ***
 
